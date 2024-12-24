@@ -1,0 +1,13 @@
+{
+    "workbench.editor.defaultBinaryEditor": "default",
+    "workbench.editor.alwaysShowEditorActions": true,
+    "workbench.editor.centeredLayoutFixedWidth": true,
+    "markdown.copyFiles.overwriteBehavior": "overwrite",
+    "markdown.editor.drop.enabled": "always",
+    "markdown.editor.filePaste.enabled": "always",
+    "markdown.editor.pasteUrlAsFormattedLink.enabled": "always",
+    "markdown.links.openLocation": "beside",
+    "markdown.occurrencesHighlight.enabled": true,
+    "markdown.preferredMdPathExtensionStyle": "includeExtension",
+    "markdown.preview.breaks": true
+}

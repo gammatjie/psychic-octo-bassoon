@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "ms-python.debugpy",
+        "ms-python.debugpy",
+        "ms-vscode.remote-server",
+        "amirejoseph.api-folder-gen"
+    ]
+}
